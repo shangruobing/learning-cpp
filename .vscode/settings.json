@@ -1,0 +1,12 @@
+{
+    "cSpell.words": [
+        "Lstbox",
+        "winfo",
+        "yscrollcommand",
+        "yview"
+    ],
+    "files.associations": {
+        "*.sass": "sass",
+        "iostream": "cpp"
+    }
+}
